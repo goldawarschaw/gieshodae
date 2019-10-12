@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohchaitaiw.werk85.de/sitemap.xml
